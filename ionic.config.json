@@ -1,0 +1,8 @@
+{
+  "name": "Health Tracker BGC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "df399aeb"
+}
